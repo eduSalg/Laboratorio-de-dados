@@ -1,6 +1,3 @@
--- ==============================================================================
--- 01_ddl.sql: DDL COMPLETO - CRIAÇÃO DO BANCO E TABELAS
--- ==============================================================================
 
 DROP DATABASE IF EXISTS revenda_veiculos;
 CREATE DATABASE revenda_veiculos;
